@@ -57,12 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
 <img src="https://raw.githubusercontent.com/sideque/sideque/output/snake.svg" alt="Snake animation" />
 
 ###
