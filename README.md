@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm L (Aboobakkar Sidhique KK)
 
-<!--
-**sideque/sideque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Web Developer | MERN Stack Enthusiast  
+💡 Currently Learning Data Structures, Algorithms & System Design  
+🌱 Building real-world projects to improve my skills  
+📚 Studying at Brocamp | Dreaming big and working hard  
+🛠️ Tech Stack: HTML, CSS, JavaScript, React, Node.js, MongoDB, Git & more  
+🎯 Goal: Become a Software Engineer at Microsoft  
+🌏 Dream: Travel to Japan 🇯🇵
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Projects
+- 🔗 [PARLE-AGRO-Appy-Fizz](https://github.com/sideque/PARLE-AGRO-Appy-Fizz)
+- 🔧 MobiVault Admin Dashboard (In Progress)
+- 🔐 OTP-based Auth System using Node.js
+
+---
+
+### 📫 Connect with me
+- 📍 GitHub: [sideque](https://github.com/sideque)
+- 📧 Email: [optional - only if you want to share]
