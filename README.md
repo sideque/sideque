@@ -31,7 +31,7 @@
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,cpp,html,css&theme=dark" />
 
 ### 🎨 Design & Tools  
 <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,git,github,docker,aws&theme=dark" />
