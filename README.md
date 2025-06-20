@@ -26,6 +26,18 @@
 
 ---
 
+## ☕ Buy Me a Coffee
+
+<div align="center">
+
+If you like what I do and want to support me:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&color=FFDD00)](https://coff.ee/sidhique)
+
+</div>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
