@@ -51,13 +51,13 @@
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,redux,java,cpp,html,css,tailwind,bootstrap&theme=dark" />
 
 ### 🎨 Design & Tools  
-<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,git,github,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,postman,git,github,docker,aws,cloudflare,npm&theme=dark" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,vercel,netlify,redis,supabase&theme=dark" />
 
 </div>
 
