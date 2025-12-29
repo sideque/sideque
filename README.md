@@ -1,34 +1,33 @@
-# <div align="center">🎨 Software Developer | MERN Stack | Problem Solver 🦋</div>
+# <div align="center">🎨 Creative Developer | Code Artist | Digital Innovator 🐼</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Still+Learning;Building+e-commerce+experiences;Quietly+learning+Loudly+building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Open+Source+Contributor;E-commerce+Builder;Always+Learning+New+Technologies" />
 </div>
 
 ---
 
 <div align="center">
   
-### 🦋 *"Translating ideas into digital reality"* 🦋
+### 🌟 *"Crafting digital experiences, one line of code at a time"* 🌟
 
 </div>
 
 ## 🎭 About Me
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/80/12/5780125f1228ed8cbfa2761d7aae4347.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 👨‍💻 MERN Stack Developer — focused on real-world projects
 - 🔭 Working on: **E-commerce website, Admin Dashboard, OTP Auth System, Google OAuth**
 - 🌱 Learning: **JavaScript → Node.js → MongoDB → React → DSA → AI Integration**
 - 🎯 Goal: **Become the first web developer in my family**
-- 🚀 Big Dream: **Software Engineer at Google**
-- 🌍 Dream Destination: **South Korea**
+- 🚀 Big Dream: **Software Engineer at Microsoft**
+- 🌍 Dream Destination: **Japan 🇯🇵**
 - 🤝 Open to collaborate on **full‑stack, UI, and open‑source projects**
 - 💬 Ask me about **React, JS, Node.js, MongoDB, Auth, UI/UX, Projects**
 - 📚 Improving: **communication, consistency, daily coding**
 - ❤️ I love explaining coding in the simplest way possible
 - ⚡ Fun Facts:
   - I turn **coffee into code** ☕➡️💻
-  <!-- - I’ve known my girlfriend for **8–9 years ** 👀 -->
   - Indoor vibes: **coding + music + learning**
   - I believe: *Small daily improvements → big results*
 
@@ -40,7 +39,7 @@
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&color=FFDD00)](https://buymeacoffee.com/akhilaa)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&color=FFDD00)](https://coff.ee/sidhique)
 
 </div>
 
@@ -96,10 +95,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-tharol/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__akhila__t/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akhilatharol5993)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidhiee/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidhiquee)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sidhiQuee)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolioo-tau-three.vercel.app/)
 
 </div>
 
@@ -125,7 +124,7 @@
   
 ### 🌟 Thanks for visiting! 🌟
 
-<img src="https://komarev.com/ghpvc/?username=Akhila397&label=Profile%20Views&color=6366F1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sideque&label=Profile%20Views&color=6366F1&style=for-the-badge" />
 
 *"Every master was once a beginner. Every pro was once an amateur."*
 
