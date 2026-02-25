@@ -14,7 +14,7 @@
 
 ## 🎭 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be/s1280x1920/b8b3531ab88f320d70526e74ddeec55e72692021.gifv">
 
 - 👨‍💻 MERN Stack Developer — focused on real-world projects
 - 🔭 Working on: **E-commerce website, Admin Dashboard, OTP Auth System, Google OAuth**
